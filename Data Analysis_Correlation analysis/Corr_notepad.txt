@@ -1,0 +1,9 @@
+Project 2
+Correlation data analysis
+
+On this project we analyzed data of a superstore to see what correlates most with profits.
+The project is python based and I perfomed the following:
+
+1 : Data cleaning
+2 : Data analysis
+3 : Data visualization
